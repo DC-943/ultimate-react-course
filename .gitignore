@@ -1,0 +1,19 @@
+#*.json
+#*-local.*
+
+#*.config
+#!/appname/settings.sample.config
+#!*.sample.config
+
+# binaries
+bin/
+dist/
+lib/
+
+# editors
+*.swp
+.idea/
+.vs/
+.vscode/
+.DS_Store
+node_modules/
