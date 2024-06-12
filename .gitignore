@@ -1,9 +1,9 @@
 #*.json
 #*-local.*
 
-#*.config
-#!/appname/settings.sample.config
-#!*.sample.config
+*.config
+!/appname/settings.sample.config
+!*.sample.config
 
 # binaries
 bin/
