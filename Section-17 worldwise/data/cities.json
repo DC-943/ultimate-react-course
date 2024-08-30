@@ -1,0 +1,148 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "7119",
+      "cityName": "Luesia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-12T04:40:45.206Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": "42.423423055903115",
+        "lng": "-0.9657336766844727"
+      }
+    },
+    {
+      "id": "b4e8",
+      "cityName": "Sos del Rey Catolico",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-12T14:06:01.978Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": "42.40720115402725",
+        "lng": "-1.33953830741826"
+      }
+    },
+    {
+      "id": "3934",
+      "cityName": "Newcastle",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-07-06T15:24:36.823Z",
+      "notes": "",
+      "position": {
+        "lat": "-32.9280783785617",
+        "lng": "151.77784362506182"
+      }
+    },
+    {
+      "id": "b6cc",
+      "cityName": "Sydney",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-07-06T15:28:40.946Z",
+      "notes": "",
+      "position": {
+        "lat": "-33.50709653596254",
+        "lng": "151.07228772498527"
+      }
+    },
+    {
+      "id": "793a",
+      "cityName": "Canberra",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-07-06T15:28:57.428Z",
+      "notes": "",
+      "position": {
+        "lat": "-35.301516675223546",
+        "lng": "149.16943470326137"
+      }
+    },
+    {
+      "id": "3f12",
+      "cityName": "Wuhan",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-07-06T15:29:32.028Z",
+      "notes": "",
+      "position": {
+        "lat": "30.515221203942833",
+        "lng": "114.32905745905188"
+      }
+    },
+    {
+      "id": "d381",
+      "cityName": "Melbourne",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-07-08T01:34:21.049Z",
+      "notes": "",
+      "position": {
+        "lat": "-37.8065289719079",
+        "lng": "144.98657238206755"
+      }
+    },
+    {
+      "id": "c148",
+      "cityName": "Changjin-gun",
+      "country": "Korea (the Democratic People's Republic of)",
+      "emoji": "🇰🇵",
+      "date": "2024-07-08T01:42:39.970Z",
+      "notes": "",
+      "position": {
+        "lat": "40.363309270769975",
+        "lng": "127.15572014824981"
+      }
+    },
+    {
+      "id": "5db9",
+      "cityName": "Koesan",
+      "country": "Korea (the Republic of)",
+      "emoji": "🇰🇷",
+      "date": "2024-07-30T01:43:42.000Z",
+      "notes": "I love this place ",
+      "position": {
+        "lat": "36.68609409160502",
+        "lng": "127.72704371631683"
+      }
+    }
+  ]
+}
