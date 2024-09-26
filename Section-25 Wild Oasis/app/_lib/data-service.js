@@ -1,5 +1,5 @@
 import { eachDayOfInterval } from "date-fns"
-import { Supabase } from "./supabase"
+import { supabase } from "./supabase"
 /////////////
 // GET
 
