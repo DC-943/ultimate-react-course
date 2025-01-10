@@ -1,5 +1,5 @@
-import styled from "styled-components";
-
+import styled from "styled-components"
+import React from "react"
 const FileInput = styled.input`
   font-size: 1.4rem;
   border-radius: var(--border-radius-sm);
@@ -20,6 +20,6 @@ const FileInput = styled.input`
       background-color: var(--color-brand-700);
     }
   }
-`;
+`
 
-export default FileInput;
+export default FileInput

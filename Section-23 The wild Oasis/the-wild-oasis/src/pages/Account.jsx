@@ -1,6 +1,6 @@
-import Heading from "../ui/Heading";
-import Row from "../ui/Row";
-
+import Heading from "../ui/Heading"
+import Row from "../ui/Row"
+import React from "react"
 function Account() {
   return (
     <>
@@ -16,7 +16,7 @@ function Account() {
         <p>Update user password form</p>
       </Row>
     </>
-  );
+  )
 }
 
-export default Account;
+export default Account

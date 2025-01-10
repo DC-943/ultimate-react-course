@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import React from "react"
 const StyledMenu = styled.div`
   display: flex;
   align-items: center;

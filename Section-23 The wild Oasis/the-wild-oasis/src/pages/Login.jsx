@@ -1,5 +1,5 @@
-import styled from "styled-components";
-
+import styled from "styled-components"
+import React from "react"
 const LoginLayout = styled.main`
   min-height: 100vh;
   display: grid;
@@ -8,10 +8,10 @@ const LoginLayout = styled.main`
   justify-content: center;
   gap: 3.2rem;
   background-color: var(--color-grey-50);
-`;
+`
 
 function Login() {
-  return <LoginLayout>Login</LoginLayout>;
+  return <LoginLayout>Login</LoginLayout>
 }
 
-export default Login;
+export default Login
